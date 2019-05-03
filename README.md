@@ -5,3 +5,12 @@ X - input
 m,b - parameters
 y- output
 we predict new Y using parameters and then try to decrese the cost function using the parameter
+
+
+Classification - Logistic Classification
+Activation Function - Sigmoid function - 1/1+e^-x
+
+
+
+
+
